@@ -1,0 +1,6 @@
+<endpoints>
+	<endpoint id="se_scb_ssd" version="1.0" url="http://api.scb.se/OV0104/v1/doris/${language}/ssd" >
+		<name lang="en">Statistics Swedens statistical database</name>
+		<docs lang="en">http://www.scb.se/en_/About-us/Open-data-API/API-for-the-Statistical-Database-/</docs>
+	</endpoint>
+</endpoints>
