@@ -3,4 +3,12 @@
 		<name lang="en">Statistics Swedens statistical database</name>
 		<docs lang="en">http://www.scb.se/en_/About-us/Open-data-API/API-for-the-Statistical-Database-/</docs>
 	</endpoint>
+	<endpoint id="fi_api" version="1.0" url="http://pxnet2.stat.fi/PXWeb/api/v1/{0}/StatFin" >
+		<name lang="en">StatFin API</name>
+		<docs lang="en">http://www.stat.fi/tup/pcaxis/px_web_ominaisuudet_en.html</docs>
+	</endpoint>
+	<endpoint id="no_api" version="1.0" url="http://data.ssb.no/api/v0/{0}/table" >
+		<name lang="en">Statistics Norway Statbank</name>
+		<docs lang="en">http://www.ssb.no/en/omssb/tjenester-og-verktoy/api/</docs>
+	</endpoint>	
 </endpoints>
